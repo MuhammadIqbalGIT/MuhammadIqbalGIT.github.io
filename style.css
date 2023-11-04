@@ -19,3 +19,8 @@ p {
     font-size: 18px; /* Ukuran font 18px */
     line-height: 1.5; /* Jarak antar baris 1.5 kali ukuran font */
 }
+
+.teks-merah {
+    color: red;
+    font-size: 16px;
+}
