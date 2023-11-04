@@ -33,11 +33,6 @@ div:first-letter {
     color: #ffffff
 }
 
-ul ul li {
-    font-size: x-large;
-    font-decoration: italic;
-}
-
 h2 em {
     font-weight: 900
 }
